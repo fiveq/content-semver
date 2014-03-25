@@ -18,7 +18,7 @@ Downsides to writing things down:
   3. More reading
 
 But seriously, the biggest change to this document from version 2.0.0 of
-[http://github.com/mojombo/semver](semver) is that we distinguish the reasons
+[semver](http://github.com/mojombo/semver) is that we distinguish the reasons
 for minor and major iterations using atomic or non-atomic feature additions to
 the content and URL structure of the project.
 
